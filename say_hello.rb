@@ -1,6 +1,6 @@
 # Build your say_hello method here
 say_hello (name)
-  puts ("Hello Ruby programmer.")
+  puts ("Hello #{name}.")
 end
 
 greeting
